@@ -1,4 +1,4 @@
 
 
-ternary: ternary.c
-	gcc ternary.c -o ternary
+ternary: src/ternary.c
+	gcc src/ternary.c -o ternary
